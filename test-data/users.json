@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "password": "admin123",
+      "expectedSuccess": true,
+      "notes": "valid admin"
+    }
+  ]
+}
