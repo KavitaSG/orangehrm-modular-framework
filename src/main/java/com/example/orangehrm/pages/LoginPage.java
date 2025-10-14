@@ -57,5 +57,6 @@ public class LoginPage {
         enterUsername(user);
         enterPassword(pass);
         clickLogin();
+        System.out.println("Working fine");
     }
 }
